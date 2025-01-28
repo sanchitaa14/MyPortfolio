@@ -50,6 +50,10 @@ import {
       title: "AI/ML Enthusiast",
       icon: creator,
     },
+    {
+      title: "DSA Enthusiast",
+      icon: creator,
+    },
   ];
   
   const technologies = [
@@ -122,11 +126,23 @@ import {
       company_name: "Google Developer Student Clubs",
       
       iconBg: "#383E56",
-      date: "August 2023 - present",
+      date: "August 2023 - July 2024",
       points: [
         "Taking sessions on web development",
         "Mentored an ideathon based on sustainability",
         "Collaborating with various other communities for events",
+      ],
+    },
+    {
+      title: "Co-Lead",
+      company_name: "Google Developer Student Clubs",
+      
+      iconBg: "#383E56",
+      date: "August 2024 - present",
+      points: [
+        "Organized and executed technical and community-focused events to foster learning and innovation.",
+        "Led a team of 10 members to establish and maintain a high-performing and impactful student society.",
+        "Collaborated with external communities and organizations to co-host events and expand outreach.",
       ],
     },
     {
@@ -140,13 +156,24 @@ import {
         "Worked in team and lead it to provide astonishing result",
       ],
     },
+    {
+      title: "Frontend Development Intern",
+      company_name: "Ransh Innovations",
+      
+      iconBg: "#383E56",
+      date: "March 2024 - June 2024",
+      points: [
+        "Designed and implemented an intuitive userinterface,resulting in a 45% increase in user engagement and a 20% reduction in bounce rate.",
+        "Partnered with design and development teams to ensure seamless integration of frontend components, fostering a cohesive user experience and efficientproject execution",
+      ],
+    },
     
   ];
   
   const testimonials = [
     {
       testimonial:
-        "https://www.linkedin.com/ in/sanchita-bhardwaj-913883250/",
+        "www.linkedin.com/in/ sanchita-1427-code",
       name: "LinkedIn",
       designation: "",
       company: "",
@@ -219,26 +246,92 @@ import {
       source_code_link: "https://github.com/sanchitaa14/moonstone",
     },
     {
-      name: "Bakery Site",
+      name: "Jeevanrekha",
       description:
-        "A web-app for ordering various baked goods, along with becoming uploading your own home made food, to promote small businesses",
+        "A platform enabling blood donation appointments, blood camp registrations, and access to secure blood bank information, a user-friendly website, planned to achieve a 30% increase in blood donation registrations through the platform.",
       tags: [
         {
-          name: "Next.js",
+          name: "React Js",
           color: "blue-text-gradient",
         },
         {
-          name: "MongoDB",
+          name: "Firebase",
           color: "green-text-gradient",
         },
         {
-          name: "currently a work in progress",
+          name: "Tailwind CSS",
           color: "pink-text-gradient",
         },
        
       ],
       
-      source_code_link: "",
+      source_code_link: "https://github.com/sanchitaa14/raktSanvha",
+    },
+    {
+      name: "Twitter Sentiment Analysis",
+      description:
+        "A Chrome extension integrated with a Flask backend for real-time Twitter sentiment analysis. Enables users to analyze sentiments on Twitter by selecting text via context menu or entering topics in a popup interface",
+      tags: [
+        {
+          name: "Chrome Extensions",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Javascript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "VADER",
+          color: "pink-text-gradient",
+        },
+       
+      ],
+      
+      source_code_link: "https://github.com/sanchitaa14/Sentiment_Analyser",
+    },
+    {
+      name: "Fashionista",
+      description:
+        "A Myntra Clone with our suggested features added on to the platform for Myntra WeForShe, allowing enhanced user engagement for GenZ, Aims to revolutionize the retail industry by creating an engaging and trend-centric that resonates with Gen Z.",
+      tags: [
+        {
+          name: "React Native",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Python",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Expo",
+          color: "pink-text-gradient",
+        },
+       
+      ],
+      
+      source_code_link: "https://github.com/sanchitaa14/Myntra",
+    },
+    {
+      name: "Urban Setu",
+      description:
+        "Streamlining Interdepartmental Cooperation by Collaborating, Coordinating, and Optimizing Resources Across Multiple Departments",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Firebase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind CSS",
+          color: "pink-text-gradient",
+        },
+       
+      ],
+      
+      source_code_link: "https://interlinked-gray.vercel.app/",
     },
   ];
   
